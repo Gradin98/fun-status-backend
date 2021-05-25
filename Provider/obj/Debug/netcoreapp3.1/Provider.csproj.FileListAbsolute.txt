@@ -1,0 +1,12 @@
+D:\projects\c#\Fun-Status\Provider\bin\Debug\netcoreapp3.1\Provider.deps.json
+D:\projects\c#\Fun-Status\Provider\bin\Debug\netcoreapp3.1\Provider.dll
+D:\projects\c#\Fun-Status\Provider\bin\Debug\netcoreapp3.1\Provider.pdb
+D:\projects\c#\Fun-Status\Provider\bin\Debug\netcoreapp3.1\Domain.dll
+D:\projects\c#\Fun-Status\Provider\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.csprojAssemblyReference.cache
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.AssemblyInfoInputs.cache
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.AssemblyInfo.cs
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.csproj.CoreCompileInputs.cache
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.csproj.CopyComplete
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.dll
+D:\projects\c#\Fun-Status\Provider\obj\Debug\netcoreapp3.1\Provider.pdb

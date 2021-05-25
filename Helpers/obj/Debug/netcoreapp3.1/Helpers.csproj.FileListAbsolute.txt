@@ -1,0 +1,9 @@
+D:\projects\c#\Fun-Status\Helpers\bin\Debug\netcoreapp3.1\Helpers.deps.json
+D:\projects\c#\Fun-Status\Helpers\bin\Debug\netcoreapp3.1\Helpers.dll
+D:\projects\c#\Fun-Status\Helpers\bin\Debug\netcoreapp3.1\Helpers.pdb
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.csprojAssemblyReference.cache
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
+D:\projects\c#\Fun-Status\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb

@@ -1,0 +1,12 @@
+D:\projects\c#\Fun-Status\Encryption\bin\Debug\netcoreapp3.1\Encryption.deps.json
+D:\projects\c#\Fun-Status\Encryption\bin\Debug\netcoreapp3.1\Encryption.dll
+D:\projects\c#\Fun-Status\Encryption\bin\Debug\netcoreapp3.1\Encryption.pdb
+D:\projects\c#\Fun-Status\Encryption\bin\Debug\netcoreapp3.1\Helpers.dll
+D:\projects\c#\Fun-Status\Encryption\bin\Debug\netcoreapp3.1\Helpers.pdb
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.csprojAssemblyReference.cache
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfoInputs.cache
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfo.cs
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.csproj.CoreCompileInputs.cache
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.csproj.CopyComplete
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.dll
+D:\projects\c#\Fun-Status\Encryption\obj\Debug\netcoreapp3.1\Encryption.pdb
